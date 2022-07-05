@@ -1,2 +1,4 @@
-package com.bankproject.user.dao;public class userDao {
+package com.bankproject.user.dao;
+
+public class userDao {
 }

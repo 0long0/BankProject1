@@ -1,2 +1,4 @@
-package com.bankproject.user.model;public class userModel {
+package com.bankproject.user.model;
+
+public class userModel {
 }

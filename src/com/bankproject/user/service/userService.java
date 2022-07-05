@@ -1,2 +1,4 @@
-package com.bankproject.user.service;public class userService {
+package com.bankproject.user.service;
+
+public class userService {
 }

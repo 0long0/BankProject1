@@ -1,2 +1,4 @@
-package com.bankproject.user.menu;public class userMenu {
+package com.bankproject.user.menu;
+
+public class userMenu {
 }

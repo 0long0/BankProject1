@@ -1,2 +1,4 @@
-package com.bankproject.admin.menu;public class adminMenu {
+package com.bankproject.admin.menu;
+
+public class adminMenu {
 }

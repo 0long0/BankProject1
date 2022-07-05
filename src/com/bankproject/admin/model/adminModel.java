@@ -1,2 +1,4 @@
-package com.bankproject.admin.model;public class adminModel {
+package com.bankproject.admin.model;
+
+public class adminModel {
 }

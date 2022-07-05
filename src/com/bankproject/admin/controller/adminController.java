@@ -1,2 +1,4 @@
-package com.bankproject.admin.controller;public class adminController {
+package com.bankproject.admin.controller;
+
+public class adminController {
 }

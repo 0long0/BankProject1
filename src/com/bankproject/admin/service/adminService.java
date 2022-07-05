@@ -1,2 +1,4 @@
-package com.bankproject.admin.service;public class adminService {
+package com.bankproject.admin.service;
+
+public class adminService {
 }

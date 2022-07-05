@@ -1,2 +1,4 @@
-package com.bankproject;public class BankMS {
+package com.bankproject;
+
+public class BankMS {
 }
